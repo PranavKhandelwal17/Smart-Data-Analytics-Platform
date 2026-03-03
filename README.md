@@ -1,23 +1,25 @@
 # Smart Data Analytics Platform 🚀
 
-A self-service AI-powered Business Intelligence platform built using Streamlit.
+An AI-powered self-service Business Intelligence platform built using Streamlit.
 
-This project allows users to upload raw CSV datasets and automatically:
+This project was developed to simplify the process of data analysis by automating data cleaning, profiling, KPI generation, and dashboard visualization from raw CSV datasets.
 
-- Clean messy data
-- Analyze data quality
-- Generate meaningful KPIs
-- Create interactive dashboards
-- Perform conversational data analysis
+The system enables users to upload datasets and instantly receive meaningful insights without needing advanced data science knowledge.
 
-The goal of this project is to simplify data analysis and make it accessible without requiring advanced technical knowledge.
+---
+
+## 🎯 Project Objective
+
+The main objective of this project is to reduce manual data preprocessing efforts and make data analytics more accessible through automation and intelligent insights generation.
 
 ---
 
 ## 🔍 Problem It Solves
 
-Analyzing raw datasets manually takes time and technical expertise.  
-This platform automates data cleaning, profiling, KPI detection, and visualization in one place.
+Analyzing raw datasets manually can be time-consuming and technically complex.  
+Data cleaning, KPI identification, and dashboard creation usually require multiple tools.
+
+This platform integrates everything into one automated workflow.
 
 ---
 
@@ -26,20 +28,30 @@ This platform automates data cleaning, profiling, KPI detection, and visualizati
 - Python  
 - Streamlit  
 - Pandas  
-- Plotly  
 - NumPy  
+- Plotly  
 
 ---
 
-## ✨ Key Features
+## 🧠 Core Functionalities
 
-- Automatic column role detection (Measure, Dimension, Date)
-- Data quality scoring
+- Automatic column role detection (Measure, Dimension, Date, ID)
+- Data quality scoring (completeness & duplicates)
 - Missing value handling
-- Outlier detection (IQR method)
-- Dynamic KPI generation
+- Outlier detection using IQR method
+- Dynamic KPI engine
 - Interactive visual dashboards
-- Chat-style data interaction
+- Conversational analytics interface
+
+---
+
+## 🔄 Workflow Overview
+
+1. Upload CSV dataset  
+2. Automatic profiling and cleaning  
+3. KPI detection and calculation  
+4. Dashboard generation  
+5. Interactive data exploration  
 
 ---
 

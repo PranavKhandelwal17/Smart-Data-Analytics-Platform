@@ -60,3 +60,7 @@ This platform integrates everything into one automated workflow.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## 🌐 Live Demo
+🔗 https://pranav-analytics-engine.streamlit.app

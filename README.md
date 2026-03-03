@@ -55,6 +55,8 @@ This platform integrates everything into one automated workflow.
 
 ---
 
+<img width="1024" height="1536" alt="System Architecture" src="https://github.com/user-attachments/assets/6ab5192e-b022-4c8f-bea2-64029a904770" />
+
 ## ▶️ How to Run Locally
 
 ```bash
@@ -64,3 +66,8 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 🔗 https://pranav-analytics-engine.streamlit.app
+
+
+
+
+
